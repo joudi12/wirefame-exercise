@@ -1,0 +1,67 @@
+.nav{
+    margin: 50pxpx;
+    line-height: 76px;
+    width: 100%;
+    font-size: x-large;
+    font-weight: bold;
+    margin: 80px;
+    text-align: center;
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+#img{
+    background-color: cornflowerblue;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+#waving{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.hero{
+    margin-left: 130px;
+    margin-top: 70px;
+}
+
+#pop{
+    display: inline-block;
+    float: left;
+    margin-left: 130px;
+    margin-right: 40px;
+}
+
+
+
+ #sdra .page1  {
+    font-size: medium;
+    margin-right: 240px;
+    font-weight: bold;
+    font-family: sans-serif;
+} 
+
+
+#sdra .page .page1 .page3{
+    float: right;
+    width: 400px;
+   
+    display: inline;
+    margin-bottom: 100px;
+}
+#sdra .page {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#sdra .page3  button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: cyan;
+  padding: 5px;
+}
+footer{
+    background-color: deepskyblue;
+    height: 100px;
+    margin-top: 30px;
+}
+
